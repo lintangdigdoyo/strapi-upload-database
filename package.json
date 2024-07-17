@@ -1,0 +1,28 @@
+{
+  "name": "strapi-upload-database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "files": [
+    "./src"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lintangdigdoyo/strapi-upload-database.git"
+  },
+  "keywords": [
+    "strapi"
+  ],
+  "author": "lintang digdoyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lintangdigdoyo/strapi-upload-database/issues"
+  },
+  "homepage": "https://github.com/lintangdigdoyo/strapi-upload-database#readme",
+  "dependencies": {
+    "pg": "^8.12.0"
+  }
+}
